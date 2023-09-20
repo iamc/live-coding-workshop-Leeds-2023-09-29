@@ -5,7 +5,8 @@ title: Pre-workshop Setup
 
 [DRAFT]
 
-  * Print / download cards
+  * Bring your own laptops
+  * Print rubric templates?
   * Prepare 3-5 min, live coding teaching demo
 
 
