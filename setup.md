@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Setup & Guidelines
+title: Pre-workshop Setup
 ---
 
+[DRAFT]
 
-Pre-workshop setup: 
   * Print / download cards
   * Prepare 3-5 min, live coding teaching demo
 
