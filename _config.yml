@@ -22,8 +22,10 @@ author: Leeds Institute for Teaching Excellence
 navbar-links:
   About: "index"
   Schedule: "schedule"
-  Setup: "setup"
   Venue: "venue"
+  Resources:
+    - Setup: "setup"
+    - References: "refs"
   # Registration: "registration"
 
 ################
