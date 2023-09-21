@@ -3,6 +3,8 @@ layout: page
 title: Schedule
 ---
 
+Friday, 29 September, 2023 
+
  | 09:30 - 10:00     |  Registration and Welcome                                    |
  | 10:00 - 11:00     |  Memory and Cognitive Load                                   |
  | 11:00 - 11:30     |  Live Coding is a Skill - Collaborative hands-on session 1   |
