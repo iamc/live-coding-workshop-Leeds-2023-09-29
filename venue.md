@@ -3,6 +3,6 @@ layout: page
 title: Venue
 ---
 
-Directions: 
+Directions: TBA
 
 Campus / Faculty / Office or Lab / GoogleMaps - OpenStreetMap links
