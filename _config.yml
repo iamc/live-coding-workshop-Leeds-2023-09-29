@@ -25,6 +25,7 @@ navbar-links:
   Venue: "venue"
   Resources:
     - Setup: "setup"
+    - Syllabus: "syllabus"
     - References: "refs"
   # Registration: "registration"
 
