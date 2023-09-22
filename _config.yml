@@ -22,10 +22,10 @@ author: Leeds Institute for Teaching Excellence
 navbar-links:
   About: "index"
   Schedule: "schedule"
-  Venue: "venue"
+  Syllabus: "syllabus"
   Resources:
+    - Venue: "venue"
     - Setup: "setup"
-    - Syllabus: "syllabus"
     - References: "refs"
   # Registration: "registration"
 
