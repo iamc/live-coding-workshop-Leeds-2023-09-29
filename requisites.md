@@ -12,7 +12,7 @@ subtitle: Pre-workshop Preparation for Live Coding Demo Session
 
 # Overview
 
-During the live coding sessions, we will work in small groups of three participants. Each group member will take turns teaching a brief, 3-minute (timed!) pre-prepared lesson material to the other two members of the group. In each turn, all participants, including the one leading the session, will provide constructive feedback on the demo.
+During the live coding sessions, we will work in small groups of three participants. Each group member will take turns teaching a brief, 3-minute (timed!) pre-prepared lesson material to the other two members of the group. In each turn, all participants, including (and first) the one teaching, will provide constructive feedback on the demo.
 
 # Preparation Guidelines
 
