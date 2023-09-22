@@ -7,7 +7,7 @@ subtitle: Pre-workshop Preparation for Live Coding Demo Session
 # Materials needed
 
  * Laptop
- * Writting materials (notebook/paper and pen)
+ * Writing materials (notebook/paper and pen)
  * Feedback rubric either printed or digital. See below for a suggested one.
 
 # Overview
