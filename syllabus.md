@@ -18,7 +18,7 @@ We will be following portions of [The Carpentries Instructror Training curriculu
 
 The primary aim of this workshop is to provide educators with valuable insights into best practices, particularly in live coding, as well as more general aspects of research-based teaching practices. In the true spirit of The Carpentries, this workshop will not make you an expert in teaching pedagogy and methods. Instead, it will establish a foundation upon which you can further develop your skills if you are interested.
 
-While some of the topics covered are specific to Carpentry Workshops, we believe they can be beneficial in your own teaching environments.
+While some of the topics covered are specific to Carpentries Workshops, we believe they can be beneficial in your own teaching environments.
 
 # Expertise & Memory and Cognitive Load
 
