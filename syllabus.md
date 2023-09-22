@@ -12,7 +12,7 @@ Please be sure to check the <a href="http://iamc.eu/live-coding-workshop-Leeds-2
 </div>
 
 
-We will be following portions of [The Carpentries Instructror Training curriculum](https://carpentries.github.io/instructor-training/index.html), specifically focusing on episodes 2, 4, 5, 17, and 20.
+We will be following portions of [The Carpentries Instructor Training curriculum](https://carpentries.github.io/instructor-training/index.html), specifically focusing on episodes 2, 4, 5, 17, and 20.
 
 # Workshop Objective
 
@@ -30,7 +30,7 @@ On a more quantitative note, but related to the stages of learning, we will disc
 
 # Live Coding is a Skill
 
-On a more practical level, we will explore why The Carpentries Workshops emphasize participatory live coding and discuss the advantages and limitations of this practice. While this approach is closely associated with Carpentries, many of the techniques employed can be applied to any "code-along" or "type-along" type of instruction.
+On a more practical level, we will explore why The Carpentries Workshops emphasize participatory live coding and discuss the advantages and limitations of this practice. While this approach is closely associated with The Carpentries, many of the techniques employed can be applied to any "code-along" or "type-along" type of instruction.
 
 We will summarize some key do's and don'ts of participatory live coding and present our top ten tips for successful participatory live coding in a workshop.
 
