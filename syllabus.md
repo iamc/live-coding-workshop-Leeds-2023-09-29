@@ -6,7 +6,7 @@ title: Syllabus
 <div class="admonition note">
 <p class="admonition-title"><b>IMPORTANT</b></p>
   <p>
-Please be sure to check the <a href="/requisites/">Requisites</a> section for some pre-workshop preparation tasks for the Live Coding Demo sessions.
+Please be sure to check the <a href="http://iamc.eu/live-coding-workshop-Leeds-2023-09-29/requisites/">Requisites</a> section for some pre-workshop preparation tasks for the Live Coding Demo sessions.
 
   </p>
 </div>
