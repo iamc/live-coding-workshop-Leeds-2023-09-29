@@ -29,4 +29,4 @@ We will go over this practice more that once.
 
 # Suggested Rubric
 
-See [Suggested Rubric for Teaching Demonstrations](Suggested Rubric for Teaching Demonstrations) for some guidelines and rubric templates we will follow for the lessons feedback.
+See [Suggested Rubric for Teaching Demonstrations](https://carpentries.github.io/instructor-training/demos_rubric.html) for some guidelines and rubric templates we will follow for the lessons feedback.
