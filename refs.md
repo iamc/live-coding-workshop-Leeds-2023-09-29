@@ -6,7 +6,7 @@ title: References
 ## The Carpentries
 
  * [The Carpentries main site](https://carpentries.org/index.html)
- * [Instructor Training curricullum](https://carpentries.github.io/instructor-training/)
+ * [Instructor Training curriculum](https://carpentries.github.io/instructor-training/)
  * [The Carpentries Handbook](https://docs.carpentries.org/index.html)
 
 ## Books
