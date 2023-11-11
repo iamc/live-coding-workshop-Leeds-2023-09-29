@@ -27,6 +27,7 @@ navbar-links:
     - Venue: "venue"
     - Requisites: "requisites"
     - References: "refs"
+    - Slides: "slides"
   # Registration: "registration"
 
 ################
